@@ -11,7 +11,7 @@ export default class TodoApp extends Component {
   state = {
     todoData: [
       this.TodoItems('Bizmich'),
-      this.TodoItems('Khoro g'),
+      this.TodoItems('Khorog'),
       this.TodoItems('GBAO'),
     ],
     valueOf: ''
